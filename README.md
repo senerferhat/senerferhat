@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on embedded software's<br>🌱 I’m currently learning everything<br>👯 I’m looking to collaborate on anything<br>👨‍💻 All of my projects are available at https://github.com/senerferhat<br>💬 Ask me about embedded software, Linux, C & C++ or any of my repos
+🔭 I’m currently working on embedded software's<br>👯 I’m looking to collaborate on anything<br>💬 Ask me about embedded software, Linux, C & C++ or any of my repos
 
 
 ## 🌐 Socials:
